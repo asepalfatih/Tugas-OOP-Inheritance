@@ -1,6 +1,6 @@
 package BelajarJava.com;
 
-public class MAhasiswa extends inheritance {
+public class MAhasiswa extends manusisa {
     String NIM;
     String Jurusan;
 
